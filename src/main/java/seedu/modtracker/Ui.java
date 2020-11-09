@@ -490,15 +490,6 @@ public class Ui {
     }
 
     /**
-     * Prints the error message when the user wants to add time which totals to more than 99 hours.
-     */
-    public void printLoggerFileError() {
-        System.out.println("Error with log file. Please proceed with the app anyways as it does not affect your"
-                + "experience");
-    }
-
-
-    /**
      * Prints the error message when the user inputs a number out of the valid range.
      */
     public void printTimeOutOfRangeError() {

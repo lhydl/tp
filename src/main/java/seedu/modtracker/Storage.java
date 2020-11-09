@@ -26,13 +26,12 @@ public class Storage {
     public Storage(String filePath) {
         try {
             FileHandler fh = new FileHandler("logger.log", true);
-            logger.setLevel(Level.INFO);
+            logger.setLevel(Level.WARNING);
             logger.addHandler(fh);
         } catch (IOException e) {
             logger.log(Level.WARNING, "Logger file load error. Please proceed on with app as this does not"
                     + "affect your experience.");
         }
-
 
         if (filePath == null) {
             logger.log(Level.WARNING, "null file path");

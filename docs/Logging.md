@@ -7,7 +7,7 @@
 #### 1. Setting up and usage of logging <a name="1"></a>
 
 * We are using `java.util.logging` package for logging.
-*  The `Logger` for a class can be obtained using `LogsCenter.getLogger(Class)`
+*  The `Logger` for a class can be obtained using `Logger.getLogger(Class)`
  which will log messages according to the specified logging level.
 *  Log messages are output through the console and to a `.log` file.
 *  The output logging level can be controlled using the `logLevel` setting.
