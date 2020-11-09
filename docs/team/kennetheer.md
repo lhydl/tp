@@ -9,7 +9,7 @@ This app uses a Command Line Interface (CLI).
 
 ## Summary of Contributions
 
-- **Code contributed:** [link](https://nus-cs2113-ay2021s1.github.io/tp-dashboard/#breakdown=true&search=&sort=groupTitle&sortWithin=title&since=2020-09-27&timeframe=commit&mergegroup=&groupSelect=groupByRepos&checkedFileTypes=docs~functional-code~test-code~other&tabOpen=true&tabType=authorship&tabAuthor=KennethEer&tabRepo=AY2021S1-CS2113T-F12-4%2Ftp%5Bmaster%5D&authorshipIsMergeGroup=false&authorshipFileTypes=docs~functional-code~test-code~other)
+- **Code contributed:** [link](https://nus-cs2113-ay2021s1.github.io/tp-dashboard/#breakdown=true&search=kennetheer&sort=groupTitle&sortWithin=title&since=2020-09-27&timeframe=commit&mergegroup=&groupSelect=groupByRepos&checkedFileTypes=docs~functional-code~test-code~other&tabOpen=true&tabType=authorship&tabAuthor=KennethEer&tabRepo=AY2021S1-CS2113T-F12-4%2Ftp%5Bmaster%5D&authorshipIsMergeGroup=false&authorshipFileTypes=docs~functional-code~test-code~other)
 
 - **Enhancements implemented:**
   <br/>
