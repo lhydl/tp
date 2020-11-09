@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-11-09T09:50:00.593065600Z</date>
+  <millis>1604915400593</millis>
+  <nanos>65600</nanos>
+  <sequence>0</sequence>
+  <logger>seedu.modtracker.Storage</logger>
+  <level>WARNING</level>
+  <class>seedu.modtracker.Storage</class>
+  <method>&lt;init&gt;</method>
+  <thread>22</thread>
+  <message>null file path</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-11-09T12:36:28.378682100Z</date>
+  <millis>1604925388378</millis>
+  <nanos>682100</nanos>
+  <sequence>0</sequence>
+  <logger>seedu.modtracker.Storage</logger>
+  <level>WARNING</level>
+  <class>seedu.modtracker.Storage</class>
+  <method>&lt;init&gt;</method>
+  <thread>22</thread>
+  <message>null file path</message>
+</record>
+</log>
